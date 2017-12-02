@@ -1,0 +1,23 @@
+{
+  "name": "db-seed",
+  "version": "0.1.0",
+  "description": "Loads the seed data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --no-colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wurde/db-seed.git"
+  },
+  "keywords": [
+    "db",
+    "task"
+  ],
+  "author": "Andy Bettisworth <andy@accreu.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wurde/db-seed/issues"
+  },
+  "homepage": "https://github.com/wurde/db-seed#readme"
+}
