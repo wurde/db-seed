@@ -31,8 +31,7 @@ let has_seed = fs.existsSync(seed_sql_path)
  */
 
 if (has_seed == false) {
-  console.log("Missing ./db/seed.sql file.")
-  return false
+  throw Error("Missing ./db/seed.sql file.")
 }
 
 /**

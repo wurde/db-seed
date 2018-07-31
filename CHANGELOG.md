@@ -12,6 +12,12 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
+## 2018-07-31, Version 1.1.0
+
+* 1 minor enhancement:
+
+  * throw errors always
+
 ## 2017-12-03, Version 1.0.0
 
 * 1 major enhancement:
