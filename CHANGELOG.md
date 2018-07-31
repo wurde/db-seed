@@ -12,7 +12,7 @@ Changes are categorized as follows:
 
 ## [Unreleased]
 
-## 2018-07-31, Version 1.1.0
+## 2018-07-31, Version 1.2.0
 
 * 1 minor enhancement:
 
